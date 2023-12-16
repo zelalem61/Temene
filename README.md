@@ -40,7 +40,7 @@ Follow these steps to set up and run Temene on your local machine.
    ```bash
 
    https://github.com/zelalem61/Temene.git
-   cd temene/frontend
+   cd temene/Frontend
 
    ```
 2. Install the frontend dependencies:
