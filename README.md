@@ -39,7 +39,7 @@ Follow these steps to set up and run Temene on your local machine.
 
    ```bash
 
-   git clone https://github.com/zelalem61/Temene.git
+   https://github.com/zelalem61/Temene.git
    cd temene/frontend
 
    ```
